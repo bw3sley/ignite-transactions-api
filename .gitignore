@@ -4,9 +4,9 @@
 # Database
 /database/*.db
 
-#Environment
+# Environment
 .env
 .env.test
 
 # Build
-/build
+/dist
